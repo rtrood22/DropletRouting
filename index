@@ -1,26 +1,11 @@
-Skip to content
-This repository  
-Search
-Pull requests
-Issues
-Gist
- @uconn-csml
- Unwatch 1
-  Star 0
-  Fork 0 uconn-csml/DropletRouting
- Code  Issues 0  Pull requests 0  Wiki  Pulse  Graphs  Settings
-Branch: master Find file Copy pathDropletRouting/index.html
-4f53a70  on Sep 17, 2015
-@uconn-csml uconn-csml Create index.html
-1 contributor
-RawBlameHistory     173 lines (142 sloc)  6.51 KB
+
 
 <!DOCTYPE html>
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-    <title>Droplet routing sample using WebGL (Yong-Jun Shin, UCONN CSML 2015)</title>
+    <title>Droplet routing sample using WebGL (Rood)</title>
     <!-- Babylon.js -->
     <script src="http://www.babylonjs.com/hand.minified-1.2.js"></script>
     <script src="http://www.babylonjs.com/cannon.js"></script>
